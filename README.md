@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @funtroverted
+- 👋 Hi, I’m Serkan
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning phyton
 - 💞️ I’m looking to collaborate on learning to code
